@@ -1,8 +1,7 @@
-# React + Vite
+# Worldwise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project goal is to build a single page application using REACT(+vite), with routing, focused on being able to register your visited locations on a map and giving insights about your visit.
 
-Currently, two official plugins are available:
+# attributions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Course's instructor [Jonas Schmedtmann](https://github.com/jonasschmedtmann/ultimate-react-course)
